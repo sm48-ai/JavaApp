@@ -10,5 +10,6 @@
 	<h2>Hi This is test</h2>
 	<p>In This app we are going to deploy the things manuyally</p>
 	<a href="about.jsp"> About </a>
+	<a href="services.jsp">Services</a>
 </body>
 </html>
